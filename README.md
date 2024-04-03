@@ -2,13 +2,13 @@
 
 <img src="assets/Website Preview.png" alt="website preview image">
 
-General Info
+<h1>General Info</h1>
 
 Sign up form focused on client-side validation: Input pattern and regex usage, Input behaviors, automatic validation and UX in forms.
 
-Features
+<h1>Features</h1>
 
-Validation:
+<p>Validation:</p>
 
 For this project all fields are required and have "pattern" so the validation is done automatically.
 "Create Account" button is disabled till the User sets an identical "Password" and "Confirm Password". However, even then, the form will not be submitted if the remaining fields are not green.
@@ -24,7 +24,7 @@ The user is informed with a constant message that all fields must remain "green"
 Autocompletion is off
 Technologies
 
-Built with:
+<p>Built with:</P>
 
 HTML,
 CSS (Sass),
@@ -33,11 +33,11 @@ Inspiration & resources
 
 The Odin Project project assignment: https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form Source info: https://www.sitepoint.com/html-forms-constraint-validation-complete-guide/ https://www.silocreativo.com/en/css-rescue-improving-ux-forms/ https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/pattern https://www.sitepoint.com/html-forms-constraint-validation-complete-guide/
 
-Status
+<p>Status</p>
 
-Completed.
+<h2>Completed.</h2>
 
-Conclusion & Issues
+<h1>Conclusion & Issues</h1>
 
 Built-in form validation is not as customizable as JS validation.
 Got some issues with displaying images by GithubPages.
